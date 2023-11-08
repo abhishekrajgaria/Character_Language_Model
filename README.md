@@ -2,7 +2,7 @@
 Character level Language Model using Teacher Forcing / also Generates text without teacher forcing
 
 ## Generated text examples
-These text are generated without teacher forcing
+These text are generated without teacher forcing for next 200 chars
 
 - The little boy was
 
